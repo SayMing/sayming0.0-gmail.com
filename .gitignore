@@ -1,4 +1,4 @@
-# Compiled class file
+﻿# Compiled class file
 *.class
 
 # Log file
@@ -24,4 +24,3 @@ hs_err_pid*
 
 # 自定义
 node_modules
-.vuepress/dist
